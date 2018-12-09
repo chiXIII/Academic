@@ -1,0 +1,17 @@
+Feedback for Teja
+
+Problem: bestMusic
+Test Cases:
+Score for case 1: 10
+Score for case 2: 5
+Score for case 3: 20
+score for this problem: 35
+
+Problem: getLength
+Test Cases:
+Score for case 1: 10
+Score for case 2: 30
+Score for case 3: 25
+score for this problem: 65
+
+Overall Score: 100 / 100

@@ -1,0 +1,6 @@
+Line 1 has the following line up: 0  0  0  0  1  0  0  0  0
+Line 2 has the following line up: 0  0  1  1  1  1  1  0  0
+Line 3 has the following line up: 0  1  1  1  1  1  1  1  0
+Line 4 has the following line up: 0  0  0  1  1  1  0  0  0
+Line 5 has the following line up: 0  0  0  0  1  0  0  0  0
+Line 6 has the following line up: 1  1  1  1  1  1  1  1  1

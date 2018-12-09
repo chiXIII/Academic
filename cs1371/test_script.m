@@ -1,0 +1,29 @@
+clear
+clc
+[my0] = pascalPodium(1);
+[correct0] = pascalPodium_soln(1);
+pascalPodium_1 = isequal([my0],[correct0]);
+[my0] = pascalPodium(2);
+[correct0] = pascalPodium_soln(2);
+pascalPodium_2 = isequal([my0],[correct0]);
+[my0] = pascalPodium(3);
+[correct0] = pascalPodium_soln(3);
+pascalPodium_3 = isequal([my0],[correct0]);
+[my0] = pascalPodium(4);
+[correct0] = pascalPodium_soln(4);
+pascalPodium_4 = isequal([my0],[correct0]);
+[my0] = pascalPodium(5);
+[correct0] = pascalPodium_soln(5);
+pascalPodium_5 = isequal([my0],[correct0]);
+[my0] = pascalPodium(6);
+[correct0] = pascalPodium_soln(6);
+pascalPodium_6 = isequal([my0],[correct0]);
+[my0] = pascalPodium(7);
+[correct0] = pascalPodium_soln(7);
+pascalPodium_7 = isequal([my0],[correct0]);
+[my0] = pascalPodium(8);
+[correct0] = pascalPodium_soln(8);
+pascalPodium_8 = isequal([my0],[correct0]);
+[my0] = pascalPodium(9.1);
+[correct0] = pascalPodium_soln(9.1);
+pascalPodium_91 = isequal([my0],[correct0]);

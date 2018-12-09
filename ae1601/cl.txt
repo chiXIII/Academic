@@ -1,0 +1,7 @@
+$-4\degree$ & -0.718 \\ \hline 
+$0\degree$ & -0.171 \\ \hline 
+$4\degree$ & 0.182 \\ \hline 
+$5\degree$ & 0.360 \\ \hline 
+$6\degree$ & 0.330 \\ \hline 
+$7\degree$ & 0.502 \\ \hline 
+$8\degree$ & 0.419 \\ \hline 

@@ -1,0 +1,31 @@
+\contentsline {chapter}{\numberline {1}Abstract}{2}
+\contentsline {chapter}{\numberline {2}Introduction}{3}
+\contentsline {section}{\numberline {2.1}Balloon Beanie}{3}
+\contentsline {section}{\numberline {2.2}Flying Leaf}{4}
+\contentsline {section}{\numberline {2.3}Project Scope}{5}
+\contentsline {chapter}{\numberline {3}Define Objectives}{6}
+\contentsline {chapter}{\numberline {4}Prior Work}{7}
+\contentsline {chapter}{\numberline {5}Project Schedule}{10}
+\contentsline {chapter}{\numberline {6}Theory}{11}
+\contentsline {section}{\numberline {6.1}Performance Target}{11}
+\contentsline {section}{\numberline {6.2}Force Predictions}{14}
+\contentsline {subsection}{\numberline {6.2.1}Drag Experiment}{14}
+\contentsline {subsubsection}{From Boundary Layer Equations}{14}
+\contentsline {subsubsection}{From CFD}{14}
+\contentsline {subsection}{\numberline {6.2.2}Wing-Sheet Interactions Experiment}{16}
+\contentsline {chapter}{\numberline {7}Experimental Setup}{19}
+\contentsline {section}{\numberline {7.1}Model Details}{19}
+\contentsline {subsection}{\numberline {7.1.1}Drag Measurement}{19}
+\contentsline {subsubsection}{First Iteration}{19}
+\contentsline {subsubsection}{Second Iteration}{22}
+\contentsline {subsection}{\numberline {7.1.2}Wing-Sheet Interaction experiment}{23}
+\contentsline {section}{\numberline {7.2}Load Cell Details}{23}
+\contentsline {subsection}{\numberline {7.2.1}Data Acquisition}{23}
+\contentsline {subsection}{\numberline {7.2.2}Load Cell Calibration}{24}
+\contentsline {subsection}{\numberline {7.2.3}Axial Force Balance}{24}
+\contentsline {subsection}{\numberline {7.2.4}Large Sheet Balance}{25}
+\contentsline {subsubsection}{First Iteration}{26}
+\contentsline {subsubsection}{Second Iteration}{31}
+\contentsline {section}{\numberline {7.3}Flow and Test Conditions}{41}
+\contentsline {chapter}{\numberline {8}Results and Discussion}{43}
+\contentsline {chapter}{\numberline {9}Conclusions}{46}

@@ -1,0 +1,17 @@
+Feedback for you
+
+Problem: bestMusic
+Test Cases:
+Score for case 1: 10
+Score for case 2: 0
+Score for case 3: 0
+score for this problem: 10
+
+Problem: getLength
+Test Cases:
+Score for case 1: 10
+Score for case 2: 30
+Score for case 3: 25
+score for this problem: 65
+
+Overall Score: 75 / 100

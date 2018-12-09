@@ -1,0 +1,30 @@
+veggie burger: beans,onions,lettuce,bun,cheese
+stuffing: onions,celery,bread crumbs
+guacamole: avocado,tomato,onions,lemon
+vegetarian posole: chiles,garlic,cloves,zuchinni,corn
+margarita pizza: tomatoes,pizza dough,garlic,basil,mozzarella
+tofu tacos: tofu,onions,lime,cilantro
+mushroom bolognese: mushroom,tomatoes
+spinach quiche: spinach,butter,onion,garlic
+veggie wrap: carrot,lettuce,tomato,hummus
+coconut curry: coconut,garlic,basil,curry powder
+egplant parmesan: eggplant,tomato,mozzarella
+soba noodles: soba,soy sauce,ginger
+lentil shepherd's pie: lentils,potatoes,parmesan,onion,garlic,thyme
+vegetable paella: rice,tomatoes,artichokes,mushrooms,capers
+veggie stir-fry: broccoli,snow peas,water chestnuts,garlic,ginger
+quinoa bowl: quinoa,avocado
+giadiniera: peppers,jalapeno,celery,carrot,onion
+broccoli penne: broccoli,penne,oil
+gnocchi: potato,oil,parmesan,garlic
+orzo salad: orzo,peppers,feta cheese,onions,lemon
+butternut squash ravioli: butternut squash,parmesan,sage
+wild mushroom pizza: mushroom,pizza dough,tomatoes
+mac and cheese: macaroni,milk,cheddar cheese
+vegetable risotto: rice,mushroom,onion,garlic,vegetable broth,parmesan
+asparagus carbonara: asparagus,linguini,basil
+black bean cakes: black beans
+baked tomatoes: tomatoes,parmesan
+ratatouille: eggplant,zucchini,pepper
+chips and salsa: chips,tomatoes,lemon
+baked sweet potatoes: sweet potatoes,cheddar cheese,broccoli,sour cream
